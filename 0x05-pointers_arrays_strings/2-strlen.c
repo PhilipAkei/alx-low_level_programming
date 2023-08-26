@@ -1,5 +1,5 @@
-**
-/* _strlen - function that returns the lenght of a string
+/**
+ * _strlen - function that returns the lenght of a string
  * @s: address of the string
  * Return: The lenght of the string
  */
@@ -12,4 +12,4 @@ int _strlen(char *s)
 		len++;
 
 	return (len);
-}i
+}
