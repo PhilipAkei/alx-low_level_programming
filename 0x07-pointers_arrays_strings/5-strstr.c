@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include "holberton.h" 
 /**
  * _strncmp - compares two strings within b bytes.
  * @s1: string to check
